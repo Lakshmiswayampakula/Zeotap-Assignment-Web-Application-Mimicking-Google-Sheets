@@ -1,4 +1,5 @@
-
+#SheetMaster - Google SpreadSheets Clone 📊
+A full-featured spreadsheet web application mimicking the core functionalities and interface of Google Sheets, with powerful mathematical operations and data quality tools.
 🚀 Overview
 SheetMaster is a web-based spreadsheet application that closely replicates the Google Sheets experience. This application provides users with a familiar interface and essential spreadsheet functionality including:
 1.	Complete spreadsheet interface matching Google Sheets' layout and interaction model
